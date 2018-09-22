@@ -1,0 +1,80 @@
+#main {
+  background-color: #0f1316;
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+}
+
+#title {
+  font-family: "Alfa Slab One", cursive;
+  font-size: 90px;
+  margin-left: 30%;
+  color: rgb(255, 235, 255);
+}
+#intro {
+  color: #8c8984;
+  width: 475px;
+  margin: 0px auto 30px auto;
+}
+#img-div {
+  margin: auto;
+  width: 100%;
+}
+#image {
+  width: 100%;
+}
+#img-caption {
+  color: #8c8984;
+}
+#tribute-info {
+  font-size: 16px;
+  width: 100%;
+  color: #f6f4e7;
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: minmax(100px, auto);
+  grid-gap: 20px;
+}
+
+.element1 {
+  background-color: #122036;
+  border: 10px solid #8c8984;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.element2 {
+  background-color: #122036;
+  border: 10px solid #8c8984;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.element3 {
+  background-color: #122036;
+  border: 10px solid #8c8984;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.element4 {
+  background-color: #122036;
+  border: 10px solid #8c8984;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.element5 {
+  background-color: #122036;
+  border: 10px solid #8c8984;
+}
+.element6 {
+  background-color: #122036;
+  border: 10px solid #8c8984;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+footer{
+  background-color:#8c8984;
+  padding:35px 55px 25px 15px;
+  color:#122036;
+}
