@@ -17,11 +17,16 @@
   margin: 0px auto 30px auto;
 }
 #img-div {
+  display:block;
   margin: auto;
   width: 100%;
 }
 #image {
-  width: 100%;
+  margin:auto;
+  height:auto;
+  min-width: 200px;
+  max-width: 80%;
+  display:block;
 }
 #img-caption {
   color: #8c8984;
